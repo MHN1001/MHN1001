@@ -24,6 +24,7 @@
 
 
 
+
 💻 I’m a software developer passionate about **C#, .NET, databases, and modern desktop applications**.  
 I enjoy building clean, structured solutions following the **3-tier architecture** and I’m always improving my skills in both backend and frontend development.
 
