@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Elmeh
+# 👋 Hi, I'm  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=El+mehdi+mhaoune)](https://git.io/typing-svg)
+
 
 💻 I’m a software developer passionate about **C#, .NET, databases, and modern desktop applications**.  
 I enjoy building clean, structured solutions following the **3-tier architecture** and I’m always improving my skills in both backend and frontend development.
