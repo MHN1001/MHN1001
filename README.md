@@ -1,6 +1,6 @@
-# 👾 Hi, I'm
+# 👋 Hi, I'm  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=EL+MEHDI+MHAOUNE)](https://git.io/typing-svg)
 
-![El Mehdi Mhaoune](https://raw.githubusercontent.com/yourusername/yourrepo/main/ElMehdi.svg)
 
 
 
