@@ -1,5 +1,27 @@
-# 👋 Hi, I'm  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=El+mehdi+mhaoune)](https://git.io/typing-svg)
+# 👋 Hi, I'm
+
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" font-size="48" text-anchor="middle" font-family="Arial Black, sans-serif">
+    <tspan fill="#FF5733">E</tspan>
+    <tspan fill="#33FF57">L</tspan>
+    <tspan fill="#3357FF"> </tspan>
+    <tspan fill="#FFD700">M</tspan>
+    <tspan fill="#FF33A6">E</tspan>
+    <tspan fill="#3CB371">H</tspan>
+    <tspan fill="#FF8C00">D</tspan>
+    <tspan fill="#8A2BE2">I</tspan>
+    <tspan fill="#00CED1"> </tspan>
+    <tspan fill="#DC143C">M</tspan>
+    <tspan fill="#FF4500">H</tspan>
+    <tspan fill="#32CD32">A</tspan>
+    <tspan fill="#1E90FF">O</tspan>
+    <tspan fill="#DA70D6">U</tspan>
+    <tspan fill="#20B2AA">N</tspan>
+    <tspan fill="#FF1493">E</tspan>
+  </text>
+  <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+</svg>
+
 
 
 💻 I’m a software developer passionate about **C#, .NET, databases, and modern desktop applications**.  
