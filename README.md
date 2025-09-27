@@ -1,53 +1,42 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Elmeh
+# 👋 Hi, I'm  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=El+mehdi+mhaoune)](https://git.io/typing-svg)
 
-###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+💻 I’m a software developer passionate about **C#, .NET, databases, and modern desktop applications**.  
+I enjoy building clean, structured solutions following the **3-tier architecture** and I’m always improving my skills in both backend and frontend development.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🎓 Formation & Learning Path
 
-###
+- **Bachelor’s Formation in Computer Science** *(in progress with projects & supervised learning under Dr. Mohammed Abu-Hadhoud)*  
+- **Core Areas of Study & Practice**:
+  - ✅ **C# Advanced Programming** (including WinForms, ADO.NET, Source Generators)  
+  - ✅ **Database Design & SQL Server** (constraints, relationships, queries, stored procedures)  
+  - ✅ **3-Tier Architecture** (Presentation Layer, Business Layer, Data Access Layer)  
+  - ✅ **Git & GitHub** (version control, branching, repositories, .gitignore setup)  
+  - ✅ **Windows Services & SQL Agent Jobs** (background automation)  
+  - ✅ **Data Structures & Algorithms** (binary trees, traversals, etc.)  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+## 💻 Skills & Technologies
 
-<h2 align="left">I code with</h2>
+- **Languages:** C#, SQL, Java, JavaScript  
+- **Frameworks & Libraries:**  
+  - .NET (WinForms)  
+  - Guna UI2 for modern UI design  
+  - ADO.NET for data access  
+- **Databases:** SQL Server  
+- **Tools & Practices:**  
+  - Git & GitHub (repos, branching, submodules, ignoring build files)  
+  - Visual Studio & SSMS  
+  - Clean coding with multi-layered architecture  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+## 🚀 Projects
 
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
+- **[DVLD Project (3-Tier WinForms Application)](https://github.com/MHN1001/DVLD-Project)**  
+  A full real-world WinForms applicatio
