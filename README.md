@@ -1,23 +1,6 @@
-# 👋 Hi, I'm
+# 👾 Hi, I'm
 
-<span style="font-size:32px; font-weight:bold;">
-<font color="#FF5733">E</font>
-<font color="#33FF57">L</font>
-<font color="#3357FF"> </font>
-<font color="#FFD700">M</font>
-<font color="#FF33A6">E</font>
-<font color="#3CB371">H</font>
-<font color="#FF8C00">D</font>
-<font color="#8A2BE2">I</font>
-<font color="#00CED1"> </font>
-<font color="#DC143C">M</font>
-<font color="#FF4500">H</font>
-<font color="#32CD32">A</font>
-<font color="#1E90FF">O</font>
-<font color="#DA70D6">U</font>
-<font color="#20B2AA">N</font>
-<font color="#FF1493">E</font>
-</span>
+![El Mehdi Mhaoune](https://raw.githubusercontent.com/yourusername/yourrepo/main/ElMehdi.svg)
 
 
 
