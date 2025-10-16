@@ -2,44 +2,50 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=EL+MEHDI+MHAOUNE)](https://git.io/typing-svg)
 
 
-💻 I’m a software developer passionate about **C#, .NET, databases, and modern desktop applications**.  
-I enjoy building clean, structured solutions following the **3-tier architecture** and I’m always improving my skills in both backend and frontend development.
+## 🚀 About Me
+
+- 💡 I enjoy solving programming problems and improving my skills every day.  
+- 💻 I develop **desktop applications** using **C#** and the **.NET Framework**.  
+- 🔍 I care about **clean coding**, **debugging**, and building maintainable projects.  
+- 🌐 I also work with **REST APIs** and database systems like **Microsoft SQL Server**.  
+- 🧠 I’m always learning more about **data structures**, **software design**, and modern development tools.  
 
 ---
 
-## 🎓 Formation & Learning Path
+## 🧠 Soft Skills
 
-- **Bachelor’s Formation in Computer Science** *(in progress with projects & supervised learning under Dr. Mohammed Abu-Hadhoud)*  
-- **Core Areas of Study & Practice**:
-  - ✅ **C# Advanced Programming** (including WinForms, ADO.NET, Source Generators)  
-  - ✅ **Database Design & SQL Server** (constraints, relationships, queries, stored procedures)  
-  - ✅ **3-Tier Architecture** (Presentation Layer, Business Layer, Data Access Layer)  
-  - ✅ **Git & GitHub** (version control, branching, repositories, .gitignore setup)  
-  - ✅ **Windows Services & SQL Agent Jobs** (background automation)  
-  - ✅ **Data Structures & Algorithms** (binary trees, traversals, etc.)  
+- 🤝 **Teamwork:** I enjoy working with others to reach shared goals.  
+- 🗣️ **Communication:** I express ideas clearly and listen carefully to others.  
+- 🧩 **Problem Solving:** I like analyzing problems and finding smart solutions.  
+- ⏰ **Time Management:** I plan my work carefully and respect deadlines.  
+- 🎯 **Adaptability:** I can learn new tools and technologies quickly.  
+- 💪 **Self-Motivation:** I always push myself to improve and finish what I start.  
 
 ---
 
-## 💻 Skills & Technologies
+## 🛠️ Technical Skills
 
-- **Languages:** C#, SQL, Java, JavaScript  
-- **Frameworks & Libraries:**  
-  - .NET (WinForms)  
-  - Guna UI2 for modern UI design  
-  - ADO.NET for data access  
-- **Databases:** SQL Server  
-- **Tools & Practices:**  
-  - Git & GitHub (repos, branching, submodules, ignoring build files)  
-  - Visual Studio & SSMS  
-  - Clean coding with multi-layered architecture  
+### 💻 Programming & Frameworks
+- **C#**, **C++**
+- **.NET Framework**
+- **Object-Oriented Programming (OOP)**
+- **ADO.NET**
+- **Language Integrated Query (LINQ)**
+
+### 🧩 Software Development
+- **Desktop Application Development**
+- **User Controls**
+- **Clean Coding**
+- **Debugging**
+- **REST APIs**
+
+### 🗄️ Databases
+- **Microsoft SQL Server**
+- **SQL / Transact-SQL (T-SQL)**
+- **ERD** and **Relational Schema Design**
+
 
 ---
-
-## 🚀 Projects
-
-- **[DVLD Project (3-Tier WinForms Application)](https://github.com/MHN1001/DVLD-Project)**  
-  A full real-world WinForms application
-
   <div align="left">
 </div>
 
