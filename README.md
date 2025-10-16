@@ -2,10 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=EL+MEHDI+MHAOUNE)](https://git.io/typing-svg)
 
 
-### 🎓 Formation
-I am currently training at the **[Programming Advices Platform](https://programmingadvices.com/)**  
-under the guidance of **[Dr. Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)**. 
+## 🎓 Formation
 
+> 🧠 **Currently Training at:**  
+> [**Programming Advices Platform**](https://programmingadvices.com/)  
+> under the guidance of [**Dr. Mohammed Abu-Hadhoud**](https://www.linkedin.com/in/abuhadhoud/)
+
+💻 **Roles & Focus**  
+- 🧩 **Back-End Developer**  
+- 💼 **Full-Stack Desktop Developer**  
+- 🌐 **Aspiring Full-Stack Web Developer**  
 ---
 
 ## 🚀 About Me
