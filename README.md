@@ -1,6 +1,21 @@
 # 👋 Hi, I'm  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=EL+MEHDI+MHAOUNE)](https://git.io/typing-svg)
 
+---
+
+### 🎓 Formation
+**In [Programming Advices Platform](https://programmingadvices.com/) under the guidance of [Dr. Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)**  
+Currently, I’m a **Back-End Developer** and **Full-Stack Desktop Developer**,  
+and I’m an **aspiring Full-Stack Web Developer**.
+
+---
+
+### 🎓 Formation
+**In [Programming Advices Platform](https://programmingadvices.com/) under the guidance of [Dr. Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)**  
+Currently, I’m a **Back-End Developer** and **Full-Stack Desktop Developer**,  
+and I’m an **aspiring Full-Stack Web Developer**.
+
+---
 
 ## 🚀 About Me
 
@@ -18,8 +33,10 @@
 - 🗣️ **Communication:** I express ideas clearly and listen carefully to others.  
 - 🧩 **Problem Solving:** I like analyzing problems and finding smart solutions.  
 - ⏰ **Time Management:** I plan my work carefully and respect deadlines.  
-- 🎯 **Adaptability:** I can learn new tools and technologies quickly.  
+- 🎯 **Goal Setting:** I set clear goals and work step by step to achieve them.  
 - 💪 **Self-Motivation:** I always push myself to improve and finish what I start.  
+- 🔄 **Adaptability:** I can learn new tools and technologies quickly.  
+- 🧘 **Stress Management:** I stay calm under pressure and focus on solutions.  
 
 ---
 
