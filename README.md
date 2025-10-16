@@ -1,19 +1,10 @@
 # 👋 Hi, I'm  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=3CB371&width=600&lines=EL+MEHDI+MHAOUNE)](https://git.io/typing-svg)
 
----
 
 ### 🎓 Formation
-**In [Programming Advices Platform](https://programmingadvices.com/) under the guidance of [Dr. Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)**  
-Currently, I’m a **Back-End Developer** and **Full-Stack Desktop Developer**,  
-and I’m an **aspiring Full-Stack Web Developer**.
-
----
-
-### 🎓 Formation
-**In [Programming Advices Platform](https://programmingadvices.com/) under the guidance of [Dr. Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)**  
-Currently, I’m a **Back-End Developer** and **Full-Stack Desktop Developer**,  
-and I’m an **aspiring Full-Stack Web Developer**.
+I am currently training at the **[Programming Advices Platform](https://programmingadvices.com/)**  
+under the guidance of **[Dr. Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)**. 
 
 ---
 
